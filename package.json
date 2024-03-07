@@ -1,0 +1,12 @@
+{
+  "name": "easysynpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/simon9211/easysynpm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
